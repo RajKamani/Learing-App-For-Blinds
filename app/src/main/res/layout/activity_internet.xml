@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:id="@+id/ed"
+        />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="70dp">
+        <TextView android:id="@+id/TextView01"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLength="3999"
+            android:layout_marginTop="5dp"
+            >
+
+        </TextView>
+    </ScrollView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:onClick="getSpeechInput"
+            android:text="Mic"
+
+            android:textSize="30sp"
+            android:drawableBottom="@drawable/ic_mic_black_24dp"
+            android:background="#30a2ff"
+            android:textColor="#ffffff"
+            />
+        <Button android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:id="@+id/readWebpage"
+            android:onClick="readWebpage"
+            android:layout_weight="1"
+            android:text="Search"
+            android:textSize="30sp"
+            android:drawableBottom="@drawable/ic_search_black_24dp"
+            android:background="#00A86B"
+            android:textColor="#ffffff"/>
+
+
+    </LinearLayout>
+
+
+
+</android.support.v7.widget.LinearLayoutCompat>

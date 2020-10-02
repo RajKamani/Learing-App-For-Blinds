@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="125">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="25"
+        android:background="#7e2433"
+        android:text="Articles"
+        android:textSize="25dp"
+        android:textColor="#d2c5c5"
+        android:enabled="false"
+        android:id="@+id/btnch1"
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="25"
+        android:background="#947642"
+        android:text="preposition"
+        android:textSize="25dp"
+        android:textColor="#d2c5c5"
+        android:enabled="false"
+        android:id="@+id/btnch2"
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="25"
+        android:background="#375f80"
+        android:text="Tense"
+        android:textSize="25dp"
+        android:textColor="#d2c5c5"
+        android:enabled="false"
+        android:id="@+id/btnch3"
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="25"
+        android:background="#59307c"
+        android:text="part of speech"
+        android:textSize="25dp"
+        android:textColor="#d2c5c5"
+        android:enabled="false"
+        android:id="@+id/btnch4"
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="25"
+        android:background="#316b56"
+        android:enabled="false"
+        android:text="Transformation of Sentences to active and passive"
+        android:textColor="#d2c5c5"
+        android:id="@+id/btnch5"
+        android:textSize="25dp"
+        />
+</LinearLayout>

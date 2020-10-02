@@ -1,0 +1,40 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
+
+android {
+    compileSdkVersion 25
+   /* buildToolsVersion '28.0.3'*/
+    defaultConfig {
+        applicationId "com.TheVision.tv"
+        minSdkVersion 23
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            android {
+                lintOptions {
+                    checkReleaseBuilds false
+                    abortOnError false
+                }
+            }
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.android.support:appcompat-v7:25.3.1'
+    implementation 'com.android.support.constraint:constraint-layout:1.0.0-alpha7'
+    implementation 'com.google.firebase:firebase-auth:16.0.1'
+    implementation 'com.github.pedromassango:doubleClick:3.0'
+    implementation 'org.jsoup:jsoup:1.11.3'
+    implementation 'com.google.firebase:firebase-database:16.0.1'
+    androidTestImplementation 'junit:junit:4.12'
+    testImplementation 'org.testng:testng:6.9.6'
+}

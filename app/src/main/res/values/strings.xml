@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Vision</string>
+    <string name="totalblind">Totalblind</string>
+    <string name="lessvisual">lessvisual</string>
+    <string name="english">english</string>
+    <string name="history">history</string>
+    <string name="math">Mathematics</string>
+    <string name="gk">General knowledge</string>
+    <string name="internet">Internet Search</string>
+
+</resources>

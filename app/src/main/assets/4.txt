@@ -1,0 +1,67 @@
+
+Chapter 4
+part of	speech
+4.1 INTRODUCTION
+Words are divided into different kinds or classes, called parts of speech, according
+to their use or according to the work they do in a sentence. They are eight in number:
+1. Noun
+2. Adjective
+3. Pronoun
+4. Verb
+5. Adverb
+6. Preposition
+7. Conjunction
+8. Interjection
+4.2 DEFINITION OF VARIOUS PARTS OF SPEECH
+1. A Noun is a word used as the name of a person, place or thing.
+for example, His courage won him honour.
+type of nouns
+Common and Proper Nouns
+A common noun is any nonspecific person, place or thing.
+
+A proper noun is any specific person, place, living being, or thing. A proper noun can be a name, places, companies, and trademarks. In the English language, all proper nouns are capitalized, which makes them easy to recognize.
+
+Examples
+In comparing common and proper nouns, the word cat can be used to describe many things, which makes it a common noun. Describing an animal as a thing happens in grammar but not biology since they're living beings. (J.D. Meyer) However, you could be more specific and identify a certain cat as being Garfield or Felix, which would make it a proper noun.
+2. An Adjective is a word used to add something to the meaning of the noun.
+for example, He is a brave boy.
+Attributive adjectives are part of the noun phrase headed by the noun they modify; for example, happy is an attributive adjective in "happy people". In some languages, attributive adjectives precede their nouns; in others, they follow their nouns; and in yet others, it depends on the adjective, or on the exact relationship of the adjective to the noun.
+Predicative adjectives are linked via a copuNominal adjectives act almost as nouns. One way this can happen is if a noun is elided and an attributive adjective is left behind. In the sentence, "I read two books to them; he preferred the sad book, but she preferred the happy", happy is a nominal adjective, short for "happy one" or "happy book".la or other linking mechanism to the noun or pronoun they modify; for example, happy is a predicate adjective in "they are happy" and in "that made me happy."
+
+
+3. A Pronoun is a word used instead of a noun.
+for example, The books are where you left them.
+4. A Verb is used to express action or state.
+for example, The girl wrote a letter to her cousin.
+5. An Adverb is used to add something to the meaning of the verb, an adjective or
+another adverb.
+for example, She pronounced the word quite correctly.
+She sang loudly (loudly modifies the verb sang, indicating the manner of singing)
+We left it here (here modifies the verb phrase left it, indicating place)
+I worked yesterday (yesterday modifies the verb worked, indicating time)
+You often make mistakes (often modifies the verb phrase make mistakes, indicating frequency)
+He undoubtedly did it (undoubtedly modifies the verb phrase did it, indicating certainty)
+6. A Preposition is a word used with a noun or a pronoun to show how the person or
+thing denoted by the noun or pronoun stands in relation to something else.
+for example, The girl is fond of music.
+
+
+7. A Conjunction is a word used to join words or sentences.
+for example, Two and two make four.
+You either do your work or prepare for a trip to the office. (Either do or prepare)
+He is not only handsome but also brilliant. (Not only A but also B)
+Neither the basketball team nor the football team is doing well.
+Both the cross country team and the swimming team are doing well.
+You must decide whether you stay or you go.
+Just as many Americans love basketball, so many Canadians love ice hockey.
+8. An interjection is a word which expresses some sudden feeling.
+for example, Hurray ! We have won the game.
+Some modern grammars include Determiners among the parts of speech.
+Determiners are words like a, an, the, this, these, those, every, each, some, any, my, his,
+one, two etc., which determine or limit the meaning of the nouns that follow.
+As the words are divided into different classes according to the work they do in
+sentences, it is clear that we cannot say to which part of speech a word belongs unless
+we see it used in a sentence. for example,
+They arrived soon after. (Adverb)
+They arrived after us. (Preposition)
+They arrived after we had left. (Conjunction)

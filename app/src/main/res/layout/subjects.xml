@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+   >
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#00A86B"
+        android:text="English"
+        android:textSize="25dp"
+        android:textColor="#ffffff"
+        android:id="@+id/btnSubEng"
+        />
+
+    <Button
+        android:id="@+id/btnSubMath"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#6F2DA8"
+        android:text="Mathematics"
+        android:textColor="#ffffff"
+        android:textSize="25dp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#D21F3c"
+        android:text="History"
+        android:textSize="25dp"
+        android:textColor="#ffffff"
+        android:id="@+id/btnSubHis"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#EB9605"
+        android:text="General Knowledge"
+        android:textSize="25dp"
+        android:textColor="#ffffff"
+        android:id="@+id/btnSubGK"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#1151ff"
+        android:text="Internet Search"
+        android:textSize="25dp"
+        android:textColor="#ffffff"
+        android:id="@+id/btnSubInternet"
+        />
+
+</LinearLayout>

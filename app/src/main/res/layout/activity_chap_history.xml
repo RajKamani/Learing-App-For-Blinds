@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="125">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="25"
+        android:background="#D21F3c"
+        android:text="Nationalism in India"
+        android:textSize="25dp"
+        android:textColor="#ffffff"
+        android:id="@+id/btn_1"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="25"
+        android:background="#EB9605"
+        android:text="Age of Industrialisation"
+        android:textSize="25dp"
+        android:textColor="#ffffff"
+        android:id="@+id/btn_2"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="25"
+        android:background="#4682B4"
+        android:text="Forest and Wildlife"
+        android:textSize="25dp"
+        android:textColor="#ffffff"
+        android:id="@+id/btn_3"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="25"
+        android:background="#6F2DA8"
+        android:text="Development"
+        android:textSize="25dp"
+        android:textColor="#ffffff"
+        android:id="@+id/btn_4"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="25"
+        android:background="#00A86B"
+        android:text="CONSUMER Rights"
+        android:textSize="25dp"
+        android:textColor="#ffffff"
+        android:id="@+id/btn_5"
+        />
+</LinearLayout>

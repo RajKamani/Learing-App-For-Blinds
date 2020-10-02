@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#61c2e2</color>
+    <color name="colorPrimaryDark">#5061d3</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="subEnglish">#00ffa2</color>
+    <color name="subMath">#d09aff</color>
+    <color name="subHis">#ff90a1</color>
+    <color name="subGK">#ffd58d</color>
+    <color name="subInternet">#7a9eff</color>
+    <color name="text">#ffff</color>
+</resources>
